@@ -15,43 +15,25 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>AI Strategy & Business Intelligence Intern</h4>
+                <h5>IBM SkillsBuild – AICTE Virtual Internship (Ahmedabad)</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>Mar 2026 – Apr 2026</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Successfully completed a 6-week industry-focused internship on AI Strategy, Business Intelligence, and Generative AI technologies. Built and worked on AI-powered applications using tools like IBM Watsonx, IBM Granite Models, Python, Google Colab, and Relay.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
+                <h4>IMSc in CA & IT</h4>
+                <h5>Shreyarth University (Ahmedabad, Gujarat)</h5>
               </div>
-              <h3>20XX</h3>
+              <h3>Currently in 6th Sem</h3>
             </div>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Position In Company</h4>
-                <h5>Company Name</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim
-              labore sit non ipsum temporibus quidem, deserunt eaque officiis
-              mollitia ratione suscipit repellat.
+              Pursuing Integrated Master of Science in Computer Applications & Information Technology. Secured 5th Sem SGPA: 6.09.
             </p>
           </div>
         </div>

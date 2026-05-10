@@ -6,9 +6,9 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          To pursue a career in Mobile App Development and Cyber Security, utilizing my skills in modern app
+technologies, ethical hacking, and system protection. I aim to work in a growth-oriented environment where I
+can develop secure applications, strengthen digital security, and continuously improve my technical expertise.
         </p>
       </div>
     </div>
