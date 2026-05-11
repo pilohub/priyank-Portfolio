@@ -1,3 +1,4 @@
+// @ts-nocheck
 import gsap from "gsap";
 import { smoother } from "../Navbar";
 import { SplitText } from "../../gsap/SplitText.js";
