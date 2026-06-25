@@ -30,12 +30,33 @@ const Career = () => {
                 <h4>IMSc in CA & IT</h4>
                 <h5>Shreyarth University (Ahmedabad, Gujarat)</h5>
               </div>
-              <h3>Currently in 6th Sem</h3>
+              <h3>Graduated 2026</h3>
             </div>
             <p>
-              Pursuing Integrated Master of Science in Computer Applications & Information Technology. Secured 5th Sem SGPA: 6.09.
+              Successfully completed Integrated Master of Science in Computer Applications & Information Technology (IMSc CA & IT) from Shreyarth University, Ahmedabad, Gujarat.
+
+              Graduated in 2026 | CGPA: 6.24
             </p>
           </div>
+
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>IMSc in CA & IT</h4>
+                <h5>Shreyarth University (Ahmedabad, Gujarat)</h5>
+              </div>
+              <h3>Master's Phase
+                In Progress
+                2026 – Present</h3>
+            </div>
+            <p>
+              Currently pursuing the Master's phase of the Integrated Master of Science in Computer Applications & Information Technology (IMSc CA & IT) at Shreyarth University, Ahmedabad.
+
+              Successfully completed the undergraduate phase of the integrated program and continuing the master's phase.
+              <p> Expected Completion: 2028</p>
+            </p>
+          </div>
+
         </div>
       </div>
     </div>
